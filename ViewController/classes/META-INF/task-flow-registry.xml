@@ -1,0 +1,4 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<task-flow-registry xmlns="http://xmlns.oracle.com/adf/controller/rc">
+   <task-flow-descriptor xmlns:ns0="http://xmlns.oracle.com/adf/controller/rc" ns0:path="META-INF/adfc-config.xml" ns0:id="" ns0:type="" ns0:uses-page-fragments="false" ns0:library-internal="false" ns0:remote-invocable="false" ns0:train="false" ns0:critical="false" ns0:page-type="unspecified"/>
+</task-flow-registry>
